@@ -53,3 +53,8 @@ a{
     float: right;
     background-color: gray;
 }
+img{
+    width: 50px;
+    margin-left: auto;
+    margin-right: auto;
+} 
